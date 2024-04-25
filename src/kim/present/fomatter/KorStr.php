@@ -24,7 +24,7 @@
 
 declare(strict_types=1);
 
-namespace kim\present\korstringfomatter;
+namespace kim\present\fomatter;
 
 use function count;
 use function date;
