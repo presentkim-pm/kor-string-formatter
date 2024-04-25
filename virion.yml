@@ -1,7 +1,7 @@
 ---
 name: kor-string-fomatter
 antigen: kim\present\fomatter
-version: 0.1.0
+version: 1.0.0
 api: 5.0.0
 author: KimPresent
 description: "Provides utils for formatting strings in Korean!"
