@@ -1,8 +1,8 @@
 ---
-name: VirionName
-antigen: authorname\virionname
+name: kor-string-fomatter
+antigen: kim\present\fomatter
 version: 0.1.0
-api: 4.0.0
-author: AuthorName
-description: Description of Virion
+api: 5.0.0
+author: KimPresent
+description: "Provides utils for formatting strings in Korean!"
 ...

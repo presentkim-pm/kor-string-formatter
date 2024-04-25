@@ -1,8 +1,8 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/AuthorName/VirionName
+--- # Poggit-CI Manifest
 branches:
   - main
 projects:
-  VirionName:
+  kor-string-fomatter:
     model: virion
     type: library
     lint:
