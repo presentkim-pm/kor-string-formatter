@@ -1,6 +1,6 @@
 ---
-name: kor-string-fomatter
-antigen: kim\present\fomatter
+name: kor-string-formatter
+antigen: kim\present\formatter
 version: 1.0.0
 api: 5.0.0
 author: KimPresent

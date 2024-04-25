@@ -24,7 +24,7 @@
 
 declare(strict_types=1);
 
-namespace kim\present\fomatter;
+namespace kim\present\formatter;
 
 use function count;
 use function date;

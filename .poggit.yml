@@ -2,7 +2,8 @@
 branches:
   - main
 projects:
-  kor-string-fomatter:
+  kor-string-formatter:
+    projectId: 13765
     model: virion
     type: library
     lint:
